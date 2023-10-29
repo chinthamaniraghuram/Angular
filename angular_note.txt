@@ -1,0 +1,3 @@
+npm install -g typescript
+tsc -v//check version 
+node -v// after node install 
